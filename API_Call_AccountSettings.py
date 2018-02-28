@@ -14,9 +14,9 @@ passphrase = ''
 ###################
 # SANDBOX API Access #
 ###################
-# secret = '0e0JMrfm/fjCF2TaGyNtrMaic7glas8y3Tl1KKg9j48ctShGuCKZuiNSXBYKS5HPhER0IUM1YSanrmj1ruUwKA=='
-# key = '9d0cb296b3f86610321567acc2910b8d'
-# passphrase = '5zt226ulpls'
+# secret = ''
+# key = ''
+# passphrase = ''
 
 
 #############
